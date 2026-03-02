@@ -2,7 +2,11 @@
 <h3 align="center">Full Stack Developer | Pre-Final Year Computer Science Engineering</h3>
 
 <p align="center">
-  Building scalable systems and writing clean, maintainable code.
+  Focused on building scalable systems and writing clean, maintainable code.
+</p>
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDA4emZ0MXYzNGVpY3F4cjluMWFpaXdtbTFrc2ljN2p1YnNtZmdicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hHxTQkcjmHUTC/giphy.gif" width="300"/>
 </p>
 
 ---
@@ -10,9 +14,9 @@
 <h2 align="center">🧑‍💻 About Me</h2>
 
 <p align="center">
-I am a passionate Full Stack Developer focused on building scalable, production-grade applications with clean and maintainable architecture.<br><br>
-Currently a Pre-final Year B.E. (Computer Science Engineering) student at Velammal College of Engineering and Technology (VCET).<br><br>
-Dedicated to mastering Data Structures & Algorithms and developing strong foundations in backend engineering and system design.
+Passionate Full Stack Developer building scalable and production-grade applications.<br><br>
+Pre-final Year B.E. (Computer Science Engineering) student at Velammal College of Engineering and Technology (VCET).<br><br>
+Actively mastering Data Structures & Algorithms while strengthening backend engineering and system design fundamentals.
 </p>
 
 ---
