@@ -1,27 +1,24 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Surya+Prakash+S;Pre-final+Year+B.E.+(CSE)+Student;Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=SURYA+PRAKASH+S;PRE-FINAL+YEAR+B.E.+(CSE);FULL+STACK+DEVELOPER;BUILD.+BREAK.+LEARN.+REPEAT." />
 </h1>
 
+---
+
+# ⚡ ABOUT ME
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suryaprakash-s-2005&label=Profile%20Views&color=0e75b6&style=flat" />
+🔥 Passionate <b>Full Stack Developer</b> building scalable & production-ready applications.<br>
+🚀 Focused on performance, clean architecture, and modern web systems.<br>
+🎓 <b>Pre-final Year B.E. (CSE)</b><br>
+Velammal College of Engineering and Technology (VCET).<br>
+🧠 Constantly leveling up in <b>Data Structures & Algorithms</b>.
 </p>
 
 ---
 
-## 🚀 About Me
+# 💎 TECH STACK
 
-<p align="center">
-Passionate <b>Full Stack Developer</b> focused on building scalable, high-performance web applications.<br>
-Strong interest in modern backend architecture and clean frontend experiences.<br>
-🎓 <b>Pre-final Year B.E. (CSE)</b> at Velammal College of Engineering and Technology (VCET).<br>
-🧠 Actively sharpening Data Structures & Algorithms for technical excellence.
-</p>
-
----
-
-# 🛠️ Tech Stack
-
-### 💻 Programming Languages
+### 💻 Programming
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,cs,r" />
 </p>
@@ -39,64 +36,50 @@ Strong interest in modern backend architecture and clean frontend experiences.<b
 ### ⚙️ Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,unity,androidstudio,vercel" />
-  <img src="https://cdn.simpleicons.org/render/46E3B7" width="48" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" />
+  <img src="https://cdn.simpleicons.org/render/00F7FF" width="48"/>
+  <img src="https://cdn.simpleicons.org/canva/00F7FF" width="48"/>
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 🌑 LEETCODE PERFORMANCE
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=suryaprakash-s-2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaprakash-s-2005&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://leetcard.jacoblin.cool/Surya_Prakash_S_CSE?theme=dark&ext=heatmap"/>
 </p>
 
 ---
 
-# 🦄 LeetCode Performance
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Surya_Prakash_S_CSE?theme=unicorn&font=Baloo&ext=heatmap"/>
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suryaprakash-s-2005&theme=react-dark&hide_border=true"/>
-</p>
-
----
-
-# 🌐 Connect With Me
+# 🌐 CONNECT WITH ME
 
 <p align="center">
   <a href="mailto:23cseb57.suryaprakash.s@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
   </a>
   <a href="https://www.linkedin.com/in/surya-prakash-s-cse/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
   </a>
   <a href="https://leetcode.com/u/Surya_Prakash_S_CSE/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=00F7FF"/>
   </a>
   <a href="https://www.instagram.com/surya._.jc/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=00F7FF"/>
   </a>
 </p>
 
 ---
 
-# 🧠 Currently Focused On
+# 🎯 CURRENT FOCUS
 
-- Advanced Data Structures & Algorithms  
-- Scalable Backend Systems  
-- Clean Architecture & Production-Level Code  
+<p align="center">
+⚡ Mastering Advanced DSA <br>
+⚡ Backend Scalability <br>
+⚡ Clean Architecture <br>
+⚡ Production-Ready Full Stack Systems
+</p>
 
 ---
 
 <p align="center">
-  <b>"Code. Build. Scale. Repeat."</b> 🚀
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=TOP+1%25+DEVELOPER+MINDSET;DISCIPLINE+%3E+MOTIVATION;CONSISTENCY+BUILDS+MASTERY" />
 </p>
