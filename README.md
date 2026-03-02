@@ -1,100 +1,114 @@
-# 👋 Hi, I'm Surya Prakash S  
+<h1 align="center">👋 Hi, I'm Surya Prakash S</h1>
 
-🎓 **3rd Year Computer Science Engineering Student**  
-💻 Passionate about **Full Stack Development**  
-🚀 MERN Stack Developer | Problem Solver | Continuous Learner  
-
----
-
-## 🚀 About Me  
-
-- 🔭 Currently building projects using the **MERN Stack**  
-- 🌱 Improving my **Data Structures & Algorithms** skills  
-- 👯 Open to collaborating on **Full Stack Web Applications**  
-- 💡 Love turning ideas into real-world applications  
-- ⚡ Consistent learner focused on growth  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=🚀+Aspiring+Full-Stack+Developer;MERN+Stack+Developer;💻+Java+%26+DSA+Enthusiast;🎮+Unity+Game+Developer;📱+Android+App+Developer;3rd+Year+B.E.+CSE+Student" alt="Typing Animation" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack  
+## 📌 About Me
 
-### 💻 Programming Languages  
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
-![Java](https://skillicons.dev/icons?i=java)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![Python](https://skillicons.dev/icons?i=python)
-![C#](https://skillicons.dev/icons?i=cs)
+💻 Passionate **Full Stack Developer** focused on building scalable and responsive web applications.  
+🚀 Strong interest in the **MERN Stack** and modern web technologies.  
+🎮 Exploring **Game Development using Unity**.  
+🎓 **3rd Year B.E. Computer Science Engineering Student**.  
+🧠 Actively improving **Data Structures & Algorithms** for technical mastery.
 
 ---
 
-### 🌐 Web Development  
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Express](https://skillicons.dev/icons?i=express)
-![React](https://skillicons.dev/icons?i=react)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![PHP](https://skillicons.dev/icons?i=php)
+## 🛠️ Skills
 
-**Also experienced in:** REST API Development  
-
----
-
-### 🗄️ Databases  
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" title="C#"/>
+</p>
 
 ---
 
-### ⚙️ Tools & Platforms  
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Unity](https://skillicons.dev/icons?i=unity)
-![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)
-![XAMPP](https://skillicons.dev/icons?i=xampp)
+### 🌐 Web Development (MERN Stack)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" title="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" title="PHP"/>
+</p>
 
 ---
 
-## 📈 GitHub Stats  
-
-![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryaprakash-s-2005&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suryaprakash-s-2005&layout=compact&theme=tokyonight)
-
----
-
-## 🦄 LeetCode Stats  
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Surya_Prakash_S_CSE?theme=unicorn&font=Baloo&ext=heatmap)
+### 🎮 Game Development
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="45" title="Unity"/>
+</p>
 
 ---
 
-## 🎯 Current Focus  
-
-- 🚀 Building scalable full stack web apps  
-- 📚 Mastering DSA for coding interviews  
-- 🧠 Writing clean, optimized, production-ready code  
-
----
-
-## 📫 Connect With Me  
-
-📧 **Email:** 23cseb57.suryaprakash.s@gmail.com  
-
-🔗 **LinkedIn:**  
-https://www.linkedin.com/in/surya-prakash-s-cse/
-
-💻 **GitHub:**  
-https://github.com/suryaprakash-s-2005  
-
-🧩 **LeetCode:**  
-https://leetcode.com/u/Surya_Prakash_S_CSE/
-
-📸 **Instagram:**  
-https://www.instagram.com/surya._.jc/
+### 📱 App Development
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45" title="Android Studio"/>
+</p>
 
 ---
 
-⭐ *"Code. Build. Learn. Repeat."*
+### 🗄️ Databases
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB"/>
+</p>
+
+---
+
+### ⚙️ Tools & Platforms
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xampp/xampp-original.svg" width="45" title="XAMPP"/>
+</p>
+
+---
+
+
+## 🦄 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Surya_Prakash_S_CSE?theme=unicorn&font=Baloo&ext=heatmap"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:23cseb57.suryaprakash.s@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/surya-prakash-s-cse/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Surya_Prakash_S_CSE/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/></a>
+  <a href="https://www.instagram.com/surya._.jc/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+- Advanced Data Structures & Algorithms  
+- Scalable Backend Architecture  
+- Game Mechanics in Unity  
+
+---
+
+## ✨ Quote
+
+> _"Code. Build. Learn. Repeat."_  
+> _Stay consistent. Stay curious. Keep building._ 🚀
+
+---
+
+🙏 **Thank you for visiting!**  
+Let's build something amazing 🚀
