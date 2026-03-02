@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDA4emZ0MXYzNGVpY3F4cjluMWFpaXdtbTFrc2ljN2p1YnNtZmdicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hHxTQkcjmHUTC/giphy.gif" width="300"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDA4emZ0MXYzNGVpY3F4cjluMWFpaXdtbTFrc2ljN2p1YnNtZmdicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hHxTQkcjmHUTC/giphy.gif" width="280"/>
 </p>
 
 ---
@@ -85,4 +85,8 @@ Actively mastering Data Structures & Algorithms while strengthening backend engi
 
 <p align="center">
   <i>Discipline. Consistency. Execution.</i>
+</p>
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXlxODBqY2oyc3JncHFkYzFkanE0MTQ5YzI1azl6dGR0dTV2Nnc3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qzu5DA3RXa4kF1L8ca/giphy.gif" width="260"/>
 </p>
