@@ -7,43 +7,43 @@
 
 ---
 
-## 🧑‍💻 About Me
+<h2 align="center">🧑‍💻 About Me</h2>
 
-I am a passionate Full Stack Developer focused on building scalable, production-grade applications with clean and maintainable architecture.
-
-Currently a Pre-final Year B.E. (Computer Science Engineering) student at Velammal College of Engineering and Technology (VCET).
-
+<p align="center">
+I am a passionate Full Stack Developer focused on building scalable, production-grade applications with clean and maintainable architecture.<br><br>
+Currently a Pre-final Year B.E. (Computer Science Engineering) student at Velammal College of Engineering and Technology (VCET).<br><br>
 Dedicated to mastering Data Structures & Algorithms and developing strong foundations in backend engineering and system design.
+</p>
 
 ---
 
-## 💎 Tech Stack
+<h2 align="center">💎 Tech Stack</h2>
 
-### 💻 Programming Languages
-<p>
+<h3 align="center">💻 Programming Languages</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,cs,r" />
 </p>
 
-### 🌐 Web Development
-<p>
+<h3 align="center">🌐 Web Development</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,html,css,php" />
 </p>
 
-### 🗄️ Databases
-<p>
+<h3 align="center">🗄️ Databases</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### ⚙️ Tools & Platforms
-<p>
+<h3 align="center">⚙️ Tools & Platforms</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,unity,androidstudio,vercel" />
-  <img src="https://cdn.simpleicons.org/render/white" width="40" />
-  <img src="https://cdn.simpleicons.org/canva/white" width="40" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45" title="Canva"/>
 </p>
 
 ---
 
-## 🌑 LeetCode Performance
+<h2 align="center">🌑 LeetCode Performance</h2>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Surya_Prakash_S_CSE?theme=dark&ext=heatmap" />
@@ -51,33 +51,35 @@ Dedicated to mastering Data Structures & Algorithms and developing strong founda
 
 ---
 
-## 🎯 Current Focus
+<h2 align="center">🎯 Current Focus</h2>
 
-- Mastering Advanced Data Structures & Algorithms  
-- Designing Scalable Backend Architectures  
-- Exploring Game Development with Unity, building structured gameplay systems using C#   
+<p align="center">
+• Mastering Advanced Data Structures & Algorithms <br>
+• Designing Scalable Backend Architectures <br>
+• Exploring Game Development with Unity, building structured gameplay systems using C#
+</p>
 
 ---
 
-## 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
-<p>
+<p align="center">
   <a href="mailto:23cseb57.suryaprakash.s@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/surya-prakash-s-cse/">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/Surya_Prakash_S_CSE/">
-    <img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://www.instagram.com/surya._.jc/">
-    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=400&lines=Discipline.;Consistency.;Execution." />
+  <i>Discipline. Consistency. Execution.</i>
 </p>
