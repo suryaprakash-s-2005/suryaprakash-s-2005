@@ -1,5 +1,5 @@
 <h1 align="center">Surya Prakash S</h1>
-<h3 align="center">Full Stack Developer | Pre-Final Year Computer Science Engineering</h3>
+<h3 align="center">Full Stack Developer | Final Year Computer Science Engineering</h3>
 
 <p align="center">
   Focused on building scalable systems and writing clean, maintainable code.
